@@ -1,3 +1,2 @@
 # About-Me
- Connor Madek - Big nerd, trying to help businesses protect against cyberthreats
- 
+ Connor Madek - Building tools to help people protect and manage 
